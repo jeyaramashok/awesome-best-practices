@@ -15,12 +15,11 @@ A curated list of awesome best practices in cloud software development
 
 ## Containers
 
-- [Docker - Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-- [LWN.net - Making containers safer](https://lwn.net/SubscriberLink/796700/9bc9daa32a8fe499/)
-- [Redhat - Container best practices](https://docs.openshift.com/container-platform/4.12/openshift_images/create-images.html#images-create-guidelines_create-images)
-- [Redhat - Container quickstarts](https://github.com/redhat-cop/containers-quickstarts)
-- [Redhat - Container Certification guide](https://redhat-connect.gitbook.io/partner-guide-for-red-hat-openshift-and-container/program-on-boarding/technical-prerequisites#example-dockerfile-for-container-application)
-- [Redhat - UBI starter pack examples](https://github.com/RHC4TP/starter/blob/master/Container%20Zone/UBI-Example/Dockerfile)
+- [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+- [Redhat container best practices](https://docs.openshift.com/container-platform/4.12/openshift_images/create-images.html#images-create-guidelines_create-images)
+- [Redhat container quickstarts](https://github.com/redhat-cop/containers-quickstarts)
+- [Redhat container certification guide](https://redhat-connect.gitbook.io/partner-guide-for-red-hat-openshift-and-container/program-on-boarding/technical-prerequisites#example-dockerfile-for-container-application)
+- [Redhat UBI starter pack examples](https://github.com/RHC4TP/starter/blob/master/Container%20Zone/UBI-Example/Dockerfile)
 
 ## Kubernetes
 
@@ -31,10 +30,10 @@ A curated list of awesome best practices in cloud software development
 
 ## Kubernetes Operators
 
-- [Redhat - Operator best practices](https://blog.openshift.com/kubernetes-operators-best-practices/)
-- [GCP - Stateful Applications](https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-building-kubernetes-operators-and-stateful-apps)
-- [Redhat - community operators](https://github.com/operator-framework/community-operators/blob/master/docs/best-practices.md)
-- [Kubernetes - writing controllers](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-api-machinery/controllers.md)
+- [Openshift operator best practices](https://blog.openshift.com/kubernetes-operators-best-practices/)
+- [GCP Stateful Applications](https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-building-kubernetes-operators-and-stateful-apps)
+- [Redhat community operators best practices](https://github.com/operator-framework/community-operators/blob/master/docs/best-practices.md)
+- [Kubernetes - Writing controllers](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-api-machinery/controllers.md)
 - [Kuberentes - Architecture principles](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/principles.md)
 - [Operator patterns](https://hackmd.io/wVfLKpxtSN-P0n07Kx4J8Q#Operator-Patterns)
 - [Operator updates](https://github.com/operator-framework/operator-lifecycle-manager/blob/master/doc/design/how-to-update-operators.md)
@@ -48,9 +47,9 @@ A curated list of awesome best practices in cloud software development
 
 ## API
 
-- [Google - API Design](https://cloud.google.com/apis/design/)
-- [IBM - API handbook](https://cloud.ibm.com/docs/api-handbook?topic=api-handbook-intro)
-- [IBM - API best practices](https://w3.ibm.com/w3publisher/api-and-sdk-best-practices/blog)
+- [Google API Design](https://cloud.google.com/apis/design/)
+- [IBM API handbook](https://cloud.ibm.com/docs/api-handbook?topic=api-handbook-intro)
+- [IBM API best practices](https://w3.ibm.com/w3publisher/api-and-sdk-best-practices/blog)
 - [Kubernetes API Conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api-conventions.md)
 
 ## Git
