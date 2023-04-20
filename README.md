@@ -27,6 +27,7 @@ A curated list of awesome best practices in cloud software development
 - [Health Checks](https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-readiness-and-liveness-probes)
 - [Remove CPU limits](https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/)
 - [Deploy images by digest](https://www.spinnaker.io/guides/user/kubernetes-v2/best-practices/#deploy-docker-images-by-digest)
+- [NSA Hardening guide](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
 
 ## Kubernetes Operators
 
@@ -37,6 +38,7 @@ A curated list of awesome best practices in cloud software development
 - [Kuberentes - Architecture principles](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/principles.md)
 - [Operator patterns](https://hackmd.io/wVfLKpxtSN-P0n07Kx4J8Q#Operator-Patterns)
 - [Operator updates](https://github.com/operator-framework/operator-lifecycle-manager/blob/master/doc/design/how-to-update-operators.md)
+- [Operator E2E testing](https://www.kubernetes.dev/blog/2023/04/12/e2e-testing-best-practices-reloaded/)
 
 ## Security
 
