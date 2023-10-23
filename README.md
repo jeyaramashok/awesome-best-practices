@@ -38,6 +38,7 @@ A curated list of awesome best practices in cloud software development
 - [Operator patterns](https://hackmd.io/wVfLKpxtSN-P0n07Kx4J8Q#Operator-Patterns)
 - [Operator updates](https://github.com/operator-framework/operator-lifecycle-manager/blob/master/doc/design/how-to-update-operators.md)
 - [Operator E2E testing](https://www.kubernetes.dev/blog/2023/04/12/e2e-testing-best-practices-reloaded/)
+- [CNCF Operator Whitepaper](https://tag-app-delivery.cncf.io/whitepapers/operator/)
 
 ## Security
 
